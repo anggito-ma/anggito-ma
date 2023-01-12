@@ -8,5 +8,5 @@ Let me tell you little things about me:
   <img src="https://img.shields.io/twitter/follow/bysinardunia?style=social" alt="HTwitter">
 </a>
 
-[![Anggito's GitHub stats](https://github-readme-stats.vercel.app/api?username=anggito-ma)](https://github.com/anuraghazra/github-readme-stats)
+[![Anggito's GitHub stats](https://github-readme-stats.vercel.app/api?username=anggito-ma)](https://github.com/anggito-ma/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggito-ma)](https://github.com/anuraghazra/github-readme-stats)
